@@ -1,6 +1,8 @@
+<p align="center"><img src="docs/assets/banner.webp" alt="DSA banner" width="100%"></p>
+
 # DSA Implementations
 
-This repository contains custom implementations of various data structures in Java. The project explores different algorithmic optimizations for standard operations.
+Coursework-style implementations of standard data structures and algorithms in Java, written while learning the material. Each one comes with a short note on its logic and complexity, and some compare simple variants of the same operation (for example, push-friendly vs pop-friendly queues).
 
 ## Contents
 
